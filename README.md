@@ -1,4 +1,4 @@
-# Latexindetnt Dockerfile
+# Latexindent Dockerfile
 
 A lightweight dockerfile for the latexindent plugin.
 
